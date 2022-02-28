@@ -1,0 +1,9 @@
+## Interface: 90200
+
+## Title: UIScale
+## Notes: Scale your UI
+## Author: DavyAT
+## Version: 1.0
+## DefaultState: enabled
+
+UIScale.lua
